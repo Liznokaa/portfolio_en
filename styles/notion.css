@@ -217,7 +217,7 @@
 
 .notion-code {
   background: rgba(249, 250, 251, 1);
-  border: 1px solid rgba(229, 231, 235, 1);
+  border: 0px solid rgba(229, 231, 235, 1);
   border-radius: 0.375rem;
 }
 
